@@ -140,4 +140,4 @@ if __name__ == "__main__":
                 correct_name = check_trader_name(name_to_check, names_dict)
                 fout.write(correct_name + '\n')
             except TypeError:
-                continue
+                fout.write('\n')
