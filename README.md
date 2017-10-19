@@ -9,7 +9,7 @@ This repository contains the trader names dictionary used to prepare data for [t
 To use the script, put the file containing the trader names to be checked (e.g. `in.txt`) in the repository (the file should contain one name per line), and run the following:
 
 ```
-python2 check_trader_names.py input.txt output.txt
+python2 check_trader_names.py in.txt out.txt
 ```
 
 First, close matches are presented, and if none are found or chosen, the full list of existing trader names is given, allowing to choose a match.
