@@ -3,7 +3,7 @@ Script to check traders names by finding matches in a dictionary,
 adding new matches and new names as they are encountered.
 
 Clement Suavet
-csuavet@sei-international.org
+clement.suavet@sei-international.org
 2017
 """
 
